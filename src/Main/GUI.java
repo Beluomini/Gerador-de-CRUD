@@ -156,7 +156,6 @@ public class GUI extends JFrame {
                 } else {
                     
                     List<String> arquivoBase = ferramentas.abrirArquivo("src/Main/" + textFieldArquivoTexto.getText() + ".txt");
-                    List<String> arquivoBase1 = ferramentas.abrirArquivo("src/Main/" + textFieldArquivoTexto1.getText() + ".txt");
                     
                     for (String s : arquivoBase) {
                         String aux[] = s.split(";");
