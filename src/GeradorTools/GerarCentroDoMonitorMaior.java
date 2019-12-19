@@ -43,7 +43,7 @@ public class GerarCentroDoMonitorMaior {
 "\n" +
 "/**\n" +
 " *\n" +
-" * @author radames\n" +
+" * @author Beluomini\n" +
 " */\n" +
 "public class CentroDoMonitorMaior {\n" +
 "\n" +
